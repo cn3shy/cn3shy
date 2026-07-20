@@ -1,0 +1,29 @@
+README.md
+  s_b22c92fbc22927::t_b699e436d421a2 17,27-32,44,53
+  h_1c02c41a586c58 41
+  s_b22c92fbc22927::t_199c78ceedbeea 14-16
+  s_b22c92fbc22927::t_2228d17f87413e 18-20,24-26
+  s_b22c92fbc22927::t_927972a0cd4ce7 45-47,50-52
+  s_b22c92fbc22927::t_7eefc57c9e74a1 1,10-13,21-23,33-40,42-43,48-49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "a92bb81d6e49550e7e8866795ccaf5a792bcd894",
+  "prompts": {},
+  "humans": {
+    "h_1c02c41a586c58": {
+      "author": "Sun <cn3shy@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_b22c92fbc22927": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e65d8c53-3b74-45ac-866c-05c28c843e22",
+        "model": "minimax-m3"
+      },
+      "human_author": "Sun <cn3shy@qq.com>"
+    }
+  }
+}
