@@ -1,4 +1,6 @@
 # Hi there, I'm cn3shy 👋
+---
+
 <!--
 **cn3shy/cn3shy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
@@ -8,24 +10,17 @@ Here are some ideas to get you started:-->
 - ⚡ Fun ： 🏸Badminton
 
 
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Building+Apps+with+Spring+Boot;Exploring+Microservices+%26+Cloud+Native;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</p>
-
 ---
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Building+Apps+with+Spring+Boot;Exploring+Microservices+%26+Cloud+Native;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  
+---
+
+</p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/cn3shy/cn3shy/output/github-snake.svg" alt="Contribution Snake" />
 </p>
-
-### 👨‍💻 关于我
-
-- 🔭 目前正在开发 **[WeFlow]**
-- 🌱 目前正在深入钻研 **[Electron 设计, C++ 底层优化]**
-- 💬 可以找我聊聊 **[跨平台客户端开发、桌面端应用构建、游戏等]**
-- 📫 联系方式: **[yccccccy@proton.me](mailto:yccccccy@proton.me)**
 
 ---
 
