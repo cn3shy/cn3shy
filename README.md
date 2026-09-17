@@ -1,11 +1,10 @@
-# Hi there, I'm Ewan3un 👋
+# Hi there 👋
 ---
 
 <!--
 **cn3shy/cn3shy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
-- 👦 是一只03🐏的的Boy
-- 🏫 School ： Qust
+- 👦 Age ：03 🐏 Boy
 - 📫 Email ： [**cn3shy@qq.com**](mailto:cn3shy@qq.com)
 - ⚡ Fun ： 🏸Badminton
 
