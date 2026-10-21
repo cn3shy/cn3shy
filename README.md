@@ -23,9 +23,7 @@ Here are some ideas to get you started:-->
 
 ---
 
-### 🛠️ 核心技术栈
-
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot"/>
@@ -37,11 +35,10 @@ Here are some ideas to get you started:-->
 
 ---
 
-### 📊 GitHub 数据统计
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cn3shy" alt="cn3shy's Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cn3shy&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true" alt="cn3shy's Streak" width="48%"/>
 </p>
+
 
 
 ---
